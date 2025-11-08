@@ -1,0 +1,17 @@
+.section{
+    height: 100vh;
+}
+
+.section h1{
+    font-size: 60px;
+}
+
+.section-btn{
+    background-color: rgb(220, 47, 17);
+    border-radius: 5px;
+    font-weight: semibold;
+    color:white;
+    border:none;
+    outline: none;
+    padding:8px 5px 8px 5px;
+}
